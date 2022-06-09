@@ -15,7 +15,7 @@ the real compiling steps are combined for translation acceleration
 
 [Stack Frame](https://odysee.com/@PrincessSunsetShimmer:5/sf:36?r=C1aSMbuRnkFY1YeXhdBUotkHNrBjgqCD)
 ![pic_2](https://player.odycdn.com/api/v4/streams/free/sf/36b65c3d66001d9521fb53dc9abcaa4787eb84d3/c2d869)
-btw, the typical function has three main part
+btw, the typical function has three main parts
 1. entry part:
     - allocate stack frame
     - store return address
