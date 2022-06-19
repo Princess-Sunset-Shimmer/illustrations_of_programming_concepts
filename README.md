@@ -20,12 +20,12 @@ btw, the typical function has three main parts
     - allocate stack frame
     - store return address
     - store register if have to
-3. main body part:
+2. main body part:
     - initialize local variable if have to
     - process local-variable, global-variable, and arguments if have to
     - passing self's callee's arguments and call self's callee if have to
     - continuously process self's callee's return-value, local-variable, global-variable, arguments, and return-value needs to be returned to self's caller if have to
-5. leave part:
+3. leave part:
     - restore register if have to
     - restore return address
     - decallocate stack frame
