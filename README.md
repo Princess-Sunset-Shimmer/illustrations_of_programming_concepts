@@ -10,7 +10,7 @@ the real compiling steps are combined for translation acceleration
 - .text relates to function codes
 - .data relates to global variable and static local variable both initialized with non-zero value
 - .bss relates to global variable and static local variable both initialized with zero
-- heap relates to calloc(), nalloc(), realloc(), and free();
+- heap relates to calloc(), malloc(), realloc(), and free();
 - stack relates to function stack frame; showed as figure as below
 
 [Stack Frame](https://odysee.com/@PrincessSunsetShimmer:5/sf:36?r=C1aSMbuRnkFY1YeXhdBUotkHNrBjgqCD)
