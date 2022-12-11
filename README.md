@@ -37,3 +37,7 @@ btw, the typical function has three main parts
 [little endian](https://odysee.com/@PrincessSunsetShimmer:5/l-e:0?r=C1aSMbuRnkFY1YeXhdBUotkHNrBjgqCD)
 ![pic_3](https://player.odycdn.com/api/v4/streams/free/l-e/06ca63d2b588d8e142095ca8b1807b902f58540c/de0cea)
 little endian is popular, big endian is legacy
+
+## CPU topology and systemic backbone bus diagram
+[computer diagram](https://odysee.com/@PrincessSunsetShimmer:5/dia:2?r=C1aSMbuRnkFY1YeXhdBUotkHNrBjgqCD)
+![pic_4](https://player.odycdn.com/api/v4/streams/free/dia/2a75602ec715d2c28e59a04694d336063a268d9a/85795d)
