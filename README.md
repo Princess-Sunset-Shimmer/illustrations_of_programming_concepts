@@ -6,7 +6,7 @@ the real compiling steps are combined for translation acceleration
 
 ## layout of memoty allocation for an executable program file
 [conceptional memory segmentation for an executable file](https://odysee.com/@PrincessSunsetShimmer:5/mem:c?r=C1aSMbuRnkFY1YeXhdBUotkHNrBjgqCD)
-![pic_1]([https://player.odycdn.com/api/v4/streams/free/sf/36b65c3d66001d9521fb53dc9abcaa4787eb84d3/6fac2c](https://player.odycdn.com/api/v4/streams/free/mem/c17e7711f5d87bf2d48c6a141a7b5d653cb90ec6/ae699f))
+![pic_1](https://player.odycdn.com/api/v4/streams/free/mem/c17e7711f5d87bf2d48c6a141a7b5d653cb90ec6/ae699f)
 - .text relates to function codes
 - .data relates to global variable and static local variable both initialized with non-zero value
 - .bss relates to global variable and static local variable both initialized with zero
