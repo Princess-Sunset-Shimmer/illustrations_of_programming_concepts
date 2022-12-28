@@ -41,3 +41,5 @@ little endian is popular, big endian is legacy
 ## CPU topology and systemic backbone bus diagram
 [computer diagram](https://odysee.com/@PrincessSunsetShimmer:5/dia:2?r=C1aSMbuRnkFY1YeXhdBUotkHNrBjgqCD)
 ![pic_4](https://player.odycdn.com/api/v4/streams/free/dia/2a75602ec715d2c28e59a04694d336063a268d9a/85795d)
+- frontend is control unit (the yellow erea in pic)
+- backend is execution unit (the blue area in pic)
