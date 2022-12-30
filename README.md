@@ -16,7 +16,7 @@ the real compiling steps are combined for translation acceleration
 [Stack Frame](https://odysee.com/@PrincessSunsetShimmer:5/sf:36?r=C1aSMbuRnkFY1YeXhdBUotkHNrBjgqCD)
 ![pic_2](https://player.odycdn.com/api/v4/streams/free/sf/36b65c3d66001d9521fb53dc9abcaa4787eb84d3/c2d869)
 btw, the typical function has three main parts
-1. head part:
+1. head part/prologue:
     - allocate stack frame
     - store return address
     - store base pointer
@@ -26,7 +26,7 @@ btw, the typical function has three main parts
     - process local-variable, global-variable, and arguments if have to
     - passing self's callee's arguments and call self's callee if have to
     - continuously process self's callee's return-value, local-variable, global-variable, arguments, and return-value needs to be returned to self's caller if have to
-3. tail part:
+3. tail part/epilogue:
     - restore register if have to
     - restore base pointer
     - restore return address
